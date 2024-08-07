@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="fEbjchGPyEOhyHDQiC9X">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-1" value="App 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-2" target="Wx_t5_zWc-ANGZzBV8TW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-2" value="App 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-3" value="App 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-5" value="App 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-6" target="Wx_t5_zWc-ANGZzBV8TW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-6" value="App 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-7" value="App 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-8" target="Wx_t5_zWc-ANGZzBV8TW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-8" target="Wx_t5_zWc-ANGZzBV8TW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-8" value="KIPC SPI Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-9" value="SPI Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-11" target="Wx_t5_zWc-ANGZzBV8TW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-11" value="KIPC Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-12" target="Wx_t5_zWc-ANGZzBV8TW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-12" value="Kernel Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-13" target="Wx_t5_zWc-ANGZzBV8TW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-13" value="SPI Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-14" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-15" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-14" target="Wx_t5_zWc-ANGZzBV8TW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="560" as="sourcePoint" />
+            <mxPoint x="610" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="570" />
+              <mxPoint x="575" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-14" target="Wx_t5_zWc-ANGZzBV8TW-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.157;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-1" target="Wx_t5_zWc-ANGZzBV8TW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.845;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-3" target="Wx_t5_zWc-ANGZzBV8TW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.159;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-5" target="Wx_t5_zWc-ANGZzBV8TW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx_t5_zWc-ANGZzBV8TW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.848;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Wx_t5_zWc-ANGZzBV8TW-7" target="Wx_t5_zWc-ANGZzBV8TW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
